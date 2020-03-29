@@ -1,6 +1,11 @@
  # Be The Hero
 > A plataforma vai juntar pessoas que tem interresse em ajudar monetariamente causas de organizações sem fins lucrativo(ONGs).
 
+
+```bash
+Projeto desenvolvido na semana omnistack 11
+```
+
 <p align="center">
   <a aria-label="Versão do Node" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.14.1">
     <img src="https://img.shields.io/badge/node.js@lts-12.14.1-informational?logo=Node.JS"></img>
@@ -57,7 +62,3 @@ Na aplicação mobile, você poderá listar todas as causas, e poderá ver as in
 
 [MIT](./LICENSE) &copy; [Rocketseat](https://rocketseat.com.br/)
 
-
-
-
-Precisamos desse dinheiro para podemos comprar remédios essenciais para algumas crianças da ONG
